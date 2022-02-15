@@ -64,7 +64,7 @@ dbmysql:
 
 ```yaml
 relationships:
-  mysqldatabse: "dbmysql:mysql"
+  mysqldatabase: "dbmysql:mysql"
 ```
 
 - In the `database.js` file, replace the content with the following:
