@@ -30,7 +30,7 @@ Strapi is a Headless CMS framework written in Node.js.
 The following changes have been made relative to the [quickstart Strapi project](https://strapi.io/documentation/v3.x/getting-started/quick-start.html) to run on Platform.sh. If using this project as a reference for your own existing project, replicate the changes below to your project.
 
 - The `.platform.app.yaml`, `.platform/services.yaml`, and `.platform/routes.yaml` files have been added. These provide Platform.sh-specific configuration and are present in all projects on Platform.sh. You may customize them as you see fit.
-- The `.platform.app.yaml` file has been configured to run your production Strapi server on the `master` environment, and development servers on all other environments. While you will be able to add content to an existing Content Type on `master`, you will only be able to create new Content Types on development environments.
+- The `.platform.app.yaml` file has been configured to run your production Strapi server on all environments you create. While you will be able to add content to an existing Content Type on `master`, you will only be able to create new Content Types during local development.
 - There are a few modules that have been added to support Strapi:
   - [`config-reader-nodejs`](https://github.com/platformsh/config-reader-nodejs): Provides convenience wrappers for accessing the Platform.sh environment variables.
   - `pg`: supports connection with PostgreSQL.
@@ -130,9 +130,11 @@ console.log(connection);
 // export strapi database connection
 module.exports = ({ env }) => connection;
 ```
+
 The difference between the above and the existing configuration is that, we have changed the database client to mysql and we removed postgres database connection settings that are not relevant to MYSQL.
 
 - The last step is to commit these settings to your git repository and deploy on Platform.sh
+
 ## References
 
 - [Strapi v4 Documentation](https://docs.strapi.io/developer-docs/latest/getting-started/introduction.html)
