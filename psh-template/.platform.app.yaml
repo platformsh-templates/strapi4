@@ -35,7 +35,8 @@ relationships:
 # The configuration of app when it is exposed to the web.
 web:
   commands:
-    start: "NODE_ENV=production yarn start"
+    start: "yarn start"
+    # start: "NODE_ENV=production yarn start"
 
 # The size of the persistent disk of the application (in MB).
 disk: 1024
