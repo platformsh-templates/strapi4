@@ -10,11 +10,12 @@ hooks:
         # Download dependencies and build Strapi.
         yarn --frozen-lockfile
         yarn build
+        echo "Something"
 relationships:
     database: 'dbpostgres:postgresql'
 web:
     commands:
-        start: 'yarn start'
+        start: 'NODE_ENV=production yarn start'
 disk: 1024
 mounts:
     /.cache:
