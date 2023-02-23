@@ -33,11 +33,11 @@ relationships:
   database: "dbpostgres:postgresql"
 
 # The configuration of app when it is exposed to the web.
-# web:
-#   commands:
-#     start: |
-#       # Production start on all environments
-#       NODE_ENV=production yarn start
+web:
+  commands:
+    start: |
+      # Production start on all environments
+      NODE_ENV=production yarn start
 
 # The size of the persistent disk of the application (in MB).
 disk: 1024
