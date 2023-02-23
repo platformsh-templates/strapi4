@@ -1,0 +1,18 @@
+export APP_KEYS=GzJwXgkYcTpND5tSohWCkA==,q5AiYmxZtYy60wrcjaJulg==,cSL0JHf+o62DqHHsrjEemA==,fYZuJ0TIMTXPWwEu02Vnkg==
+export API_TOKEN_SALT=$PLATFORM_PROJECT_ENTROPY
+export ADMIN_JWT_SECRET=$PLATFORM_PROJECT_ENTROPY
+
+
+//  Database
+// export DATABASE_CLIENT=sqlite
+// export DATABASE_FILENAME=.tmp/data.db
+export JWT_SECRET=$PLATFORM_TREE_ID
+
+// export DATABASE_URL
+export DATABASE_HOST=$(echo $PLATFORM_RELATIONSHIPS | base64 --decode | jq -r ".database[0].host")
+export DATABASE_PORT=$(echo $PLATFORM_RELATIONSHIPS | base64 --decode | jq -r ".database[0].port")
+export DATABASE_USERNAME=$(echo $PLATFORM_RELATIONSHIPS | base64 --decode | jq -r ".database[0].username")
+export DATABASE_PASSWORD=$(echo $PLATFORM_RELATIONSHIPS | base64 --decode | jq -r ".database[0].password")
+
+export DATABASE_POOL_MIN=0
+export DATABASE_POOL_MAX=10
