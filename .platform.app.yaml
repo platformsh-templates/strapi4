@@ -2,6 +2,9 @@ name: app
 type: 'nodejs:16'
 build:
     flavor: none
+variables:
+    env:
+        NODE_ENV: production
 dependencies:
     nodejs:
         yarn: 1.22.5
@@ -15,7 +18,7 @@ relationships:
     database: 'dbpostgres:postgresql'
 web:
     commands:
-        start: 'echo "This is an updated start command" && NODE_ENV=production yarn start'
+        start: yarn start
 disk: 1024
 mounts:
     /.cache:
