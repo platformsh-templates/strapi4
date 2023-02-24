@@ -15,7 +15,7 @@ relationships:
     database: 'dbpostgres:postgresql'
 web:
     commands:
-        start: 'NODE_ENV=production yarn start'
+        start: 'echo "This is an updated start command" && NODE_ENV=production yarn start'
 disk: 1024
 mounts:
     /.cache:
@@ -36,7 +36,5 @@ mounts:
 source:
     operations:
         auto-update:
-            command: >
-                curl -fsS
-                https://raw.githubusercontent.com/platformsh/source-operations/main/setup.sh
-                | { bash /dev/fd/3 sop-autoupdate; } 3<&0
+            command: |
+                curl -fsS https://raw.githubusercontent.com/platformsh/source-operations/main/setup.sh | { bash /dev/fd/3 sop-autoupdate; } 3<&0
