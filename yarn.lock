@@ -4179,14 +4179,14 @@ babel-plugin-styled-components@2.0.2:
     lodash "^4.17.11"
 
 "babel-plugin-styled-components@>= 1.12.0":
-  version "2.0.7"
-  resolved "https://registry.yarnpkg.com/babel-plugin-styled-components/-/babel-plugin-styled-components-2.0.7.tgz#c81ef34b713f9da2b7d3f5550df0d1e19e798086"
-  integrity sha512-i7YhvPgVqRKfoQ66toiZ06jPNA3p6ierpfUuEWxNF+fV27Uv5gxBkf8KZLHUCc1nFA9j6+80pYoIpqCeyW3/bA==
+  version "2.1.1"
+  resolved "https://registry.yarnpkg.com/babel-plugin-styled-components/-/babel-plugin-styled-components-2.1.1.tgz#cd977cc0ff8410d5cbfdd142e42576e9c8794b87"
+  integrity sha512-c8lJlszObVQPguHkI+akXv8+Jgb9Ccujx0EetL7oIvwU100LxO6XAGe45qry37wUL40a5U9f23SYrivro2XKhA==
   dependencies:
     "@babel/helper-annotate-as-pure" "^7.16.0"
     "@babel/helper-module-imports" "^7.16.0"
     babel-plugin-syntax-jsx "^6.18.0"
-    lodash "^4.17.11"
+    lodash "^4.17.21"
     picomatch "^2.3.0"
 
 babel-plugin-syntax-jsx@^6.18.0:
@@ -5764,9 +5764,9 @@ ee-first@1.1.1:
   integrity sha512-WMwm9LhRUo+WUaRN+vRuETqG89IgZphVSNkdFgeb6sS/E4OrDIN7t48CAewSHXc6C8lefD8KKfr5vY61brQlow==
 
 electron-to-chromium@^1.4.284:
-  version "1.4.353"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.353.tgz#20e9cb4c83a08e35b3314d3fa8988764c105e6b7"
-  integrity sha512-IdJVpMHJoBT/nn0GQ02wPfbhogDVpd1ud95lP//FTf5l35wzxKJwibB4HBdY7Q+xKPA1nkZ0UDLOMyRj5U5IAQ==
+  version "1.4.355"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.355.tgz#539484310e5a94133bc3df8ba4b6a9dde7a506a4"
+  integrity sha512-056hxzEE4l667YeOccgjhRr5fTiwZ6EIJ4FpzGps4k3YcS8iAhiaBYUBrv5E2LDQJsussscv9EEUwAYKnv+ZKg==
 
 elliptic@^6.5.3, elliptic@^6.5.4:
   version "6.5.4"
@@ -8461,9 +8461,9 @@ media-typer@0.3.0:
   integrity sha512-dq+qelQ9akHpcOl/gUVRTxVIOkAJ1wR3QAvb4RsVjS8oVoFjDGTc679wJYmUmknUF5HwMLOgb5O+a3KxfWapPQ==
 
 memfs@^3.4.1, memfs@^3.4.3:
-  version "3.4.13"
-  resolved "https://registry.yarnpkg.com/memfs/-/memfs-3.4.13.tgz#248a8bd239b3c240175cd5ec548de5227fc4f345"
-  integrity sha512-omTM41g3Skpvx5dSYeZIbXKcXoAVc/AoMNwn9TKx++L/gaen/+4TTttmu8ZSch5vfVJ8uJvGbroTsIlslRg6lg==
+  version "3.5.0"
+  resolved "https://registry.yarnpkg.com/memfs/-/memfs-3.5.0.tgz#9da86405fca0a539addafd37dbd452344fd1c0bd"
+  integrity sha512-yK6o8xVJlQerz57kvPROwTMgx5WtGwC2ZxDtOUsnGl49rHjYkfQoPNZPCKH73VdLE1BwBu/+Fx/NL8NYMUw2aA==
   dependencies:
     fs-monkey "^1.0.3"
 
@@ -8796,9 +8796,9 @@ no-case@^3.0.4:
     tslib "^2.0.3"
 
 node-abi@^3.3.0:
-  version "3.34.0"
-  resolved "https://registry.yarnpkg.com/node-abi/-/node-abi-3.34.0.tgz#3bac9f69fda94ece1752515ed996ed409da4fa26"
-  integrity sha512-O5sNsdgxptez/bSXk2CfpTcVu4yTiFW1YcMHIVn2uAY8MksXWQeReMx63krFrj/QSyjRJ5/jIBkWvJ3/ZimdcA==
+  version "3.35.0"
+  resolved "https://registry.yarnpkg.com/node-abi/-/node-abi-3.35.0.tgz#c7f171af995cc5286fa95612c4ca97b3910eaa79"
+  integrity sha512-jAlSOFR1Bls963NmFwxeQkNTzqjUF0NThm8Le7eRIRGzFUVJuMOFZDLv5Y30W/Oaw+KEebEJLAigwO9gQHoEmw==
   dependencies:
     semver "^7.3.5"
 
