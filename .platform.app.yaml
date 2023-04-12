@@ -24,6 +24,8 @@ hooks:
     # Download dependencies and build Strapi.
     yarn --frozen-lockfile
     yarn build
+    
+    echo "Oh look at my fork, it's so splendid!"
 
 # The relationships of the application with services or other applications.
 # The left-hand side is the name of the relationship as it will be exposed
