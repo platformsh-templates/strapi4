@@ -2045,9 +2045,9 @@
     "@types/koa" "*"
 
 "@types/koa@*", "@types/koa@^2.11.6":
-  version "2.13.7"
-  resolved "https://registry.yarnpkg.com/@types/koa/-/koa-2.13.7.tgz#cc90e9cc54402534be3cb13fbd809ecf3cf3da23"
-  integrity sha512-Xd9xiGmTDv57y86kQYnBZZcE9H8cJhv+aL0YH+hZIa3rbUDNdk+EY6wcJC3xCyfrVIC+vjhtNENFwisF+E8Zhg==
+  version "2.13.8"
+  resolved "https://registry.yarnpkg.com/@types/koa/-/koa-2.13.8.tgz#4302d2f2712348aadb6c0b03eb614f30afde486b"
+  integrity sha512-Ugmxmgk/yPRW3ptBTh9VjOLwsKWJuGbymo1uGX0qdaqqL18uJiiG1ZoV0rxCOYSaDGhvEp5Ece02Amx0iwaxQQ==
   dependencies:
     "@types/accepts" "*"
     "@types/content-disposition" "*"
@@ -4097,9 +4097,9 @@ ee-first@1.1.1:
   integrity sha512-WMwm9LhRUo+WUaRN+vRuETqG89IgZphVSNkdFgeb6sS/E4OrDIN7t48CAewSHXc6C8lefD8KKfr5vY61brQlow==
 
 electron-to-chromium@^1.4.431:
-  version "1.4.476"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.476.tgz#693df619ce1785ada6d5aec71fd3ce7ace71adc3"
-  integrity sha512-gzWl1m8pNy+5Kj17XcziNcbOhripjTqR2wAQmtdlFUngPYuFy7zUpJScVQAvCvQSFHNk3mS5fetNKW6BSpytFg==
+  version "1.4.477"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.477.tgz#05669aa6f161ee9076a6805457e9bd9fe6d0dfd1"
+  integrity sha512-shUVy6Eawp33dFBFIoYbIwLHrX0IZ857AlH9ug2o4rvbWmpaCUdBpQ5Zw39HRrfzAFm4APJE9V+E2A/WB0YqJw==
 
 elliptic@^6.5.4:
   version "6.5.4"
