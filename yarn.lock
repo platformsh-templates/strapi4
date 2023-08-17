@@ -4062,9 +4062,9 @@ ee-first@1.1.1:
   integrity sha512-WMwm9LhRUo+WUaRN+vRuETqG89IgZphVSNkdFgeb6sS/E4OrDIN7t48CAewSHXc6C8lefD8KKfr5vY61brQlow==
 
 electron-to-chromium@^1.4.477:
-  version "1.4.492"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.492.tgz#83fed8beb64ec60578069e15dddd17b13a77ca56"
-  integrity sha512-36K9b/6skMVwAIEsC7GiQ8I8N3soCALVSHqWHzNDtGemAcI9Xu8hP02cywWM0A794rTHm0b0zHPeLJHtgFVamQ==
+  version "1.4.493"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.493.tgz#4654f3f806231854f457c97c4ee6db5fcf015635"
+  integrity sha512-T1k9mhYPdjnmS4VAz4J1oKVn6/M6LxoqQEVtYRL0swJVj73bA2NzqF0HjwxGsW3zL3ir0oPmLfd7lyi/RYzreg==
 
 elliptic@^6.5.4:
   version "6.5.4"
@@ -6717,9 +6717,9 @@ no-case@^3.0.4:
     tslib "^2.0.3"
 
 node-abi@^3.3.0:
-  version "3.46.0"
-  resolved "https://registry.yarnpkg.com/node-abi/-/node-abi-3.46.0.tgz#491adaa8d227ca9702f30b27b2b6b248caa1348f"
-  integrity sha512-LXvP3AqTIrtvH/jllXjkNVbYifpRbt9ThTtymSMSuHmhugQLAWr99QQFTm+ZRht9ziUvdGOgB+esme1C6iE6Lg==
+  version "3.47.0"
+  resolved "https://registry.yarnpkg.com/node-abi/-/node-abi-3.47.0.tgz#6cbfa2916805ae25c2b7156ca640131632eb05e8"
+  integrity sha512-2s6B2CWZM//kPgwnuI0KrYwNjfdByE25zvAaEpq9IH4zcNsarH8Ihu/UuX6XMPEogDAxkuUFeZn60pXNHAqn3A==
   dependencies:
     semver "^7.3.5"
 
@@ -7296,9 +7296,9 @@ pg-types@^2.1.0:
     postgres-interval "^1.1.0"
 
 pg@^8.7.3:
-  version "8.11.2"
-  resolved "https://registry.yarnpkg.com/pg/-/pg-8.11.2.tgz#1a23f6de7bfb65ba56e4dd15df96668d319900c4"
-  integrity sha512-l4rmVeV8qTIrrPrIR3kZQqBgSN93331s9i6wiUiLOSk0Q7PmUxZD/m1rQI622l3NfqBby9Ar5PABfS/SulfieQ==
+  version "8.11.3"
+  resolved "https://registry.yarnpkg.com/pg/-/pg-8.11.3.tgz#d7db6e3fe268fcedd65b8e4599cda0b8b4bf76cb"
+  integrity sha512-+9iuvG8QfaaUrrph+kpF24cXkH1YOOUeArRNYIxq1viYHZagBxrTno7cecY1Fa44tJeZvaoG+Djpkc3JwehN5g==
   dependencies:
     buffer-writer "2.0.0"
     packet-reader "1.0.0"
