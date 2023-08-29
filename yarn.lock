@@ -2241,10 +2241,10 @@
   dependencies:
     "@ucast/core" "^1.4.1"
 
-"@uiw/codemirror-extensions-basic-setup@4.21.11":
-  version "4.21.11"
-  resolved "https://registry.yarnpkg.com/@uiw/codemirror-extensions-basic-setup/-/codemirror-extensions-basic-setup-4.21.11.tgz#fa7e80823041b9be5b9dd0f78b25fd7c328aa7f1"
-  integrity sha512-Axamsi5wMmojElW/l5Nxe0Z70+DXzJ5BXnaa2qkJKmHK4Ab1Wxztu6aHIHZTQGvjjD8klNYi2oBitq1dT0SW8A==
+"@uiw/codemirror-extensions-basic-setup@4.21.12":
+  version "4.21.12"
+  resolved "https://registry.yarnpkg.com/@uiw/codemirror-extensions-basic-setup/-/codemirror-extensions-basic-setup-4.21.12.tgz#95d1f86727093a841eac3b9dfea640aa792ff98b"
+  integrity sha512-LNAr5ZmKjo9KpnoVhnAiXkRsI+l9JrIrUPc3+GjpbTi8k9QjEcs8y3MFvhA2le7bbf6q1gHh2UbLmn6le0cGjQ==
   dependencies:
     "@codemirror/autocomplete" "^6.0.0"
     "@codemirror/commands" "^6.0.0"
@@ -2255,15 +2255,15 @@
     "@codemirror/view" "^6.0.0"
 
 "@uiw/react-codemirror@^4.21.9":
-  version "4.21.11"
-  resolved "https://registry.yarnpkg.com/@uiw/react-codemirror/-/react-codemirror-4.21.11.tgz#d36618a01e7a600afa7ed25e694852f54e71939c"
-  integrity sha512-eiD7gkIkIHNmisb/lB9dKuR+NEZ37ZDHtMIGgYTp7cUUB7MaJU9D7LFB9i5SBhaips74tW3jn1kRE2D7JsvWUA==
+  version "4.21.12"
+  resolved "https://registry.yarnpkg.com/@uiw/react-codemirror/-/react-codemirror-4.21.12.tgz#5161afbcef00b6a739c737541170108e1649c2dc"
+  integrity sha512-dgPhw2QLcXMe004UU8b8P0Y6Zu+AKoGXbioLF2dY2/wLeMWSXCCbKo/BKJGj/skoO/lBJ4X+b+14OGuZ5Uyeaw==
   dependencies:
     "@babel/runtime" "^7.18.6"
     "@codemirror/commands" "^6.1.0"
     "@codemirror/state" "^6.1.1"
     "@codemirror/theme-one-dark" "^6.0.0"
-    "@uiw/codemirror-extensions-basic-setup" "4.21.11"
+    "@uiw/codemirror-extensions-basic-setup" "4.21.12"
     codemirror "^6.0.0"
 
 "@webassemblyjs/ast@1.11.6", "@webassemblyjs/ast@^1.11.5":
@@ -3333,9 +3333,9 @@ co@^4.6.0:
   integrity sha512-QVb0dM5HvG+uaxitm8wONl7jltx8dqhfU33DcqtOZcLSVIKSDDLDi7+0LbAKiyI8hD9u42m2YxXSkMGWThaecQ==
 
 "codemirror5@npm:codemirror@^5.65.11":
-  version "5.65.14"
-  resolved "https://registry.yarnpkg.com/codemirror/-/codemirror-5.65.14.tgz#e75fbc7247453f1baa71463c33b52adba7e41b2a"
-  integrity sha512-VSNugIBDGt0OU9gDjeVr6fNkoFQznrWEUdAApMlXQNbfE8gGO19776D6MwSqF/V/w/sDwonsQ0z7KmmI9guScg==
+  version "5.65.15"
+  resolved "https://registry.yarnpkg.com/codemirror/-/codemirror-5.65.15.tgz#66899278f44a7acde0eb641388cd563fe6dfbe19"
+  integrity sha512-YC4EHbbwQeubZzxLl5G4nlbLc1T21QTrKGaOal/Pkm9dVDMZXMH7+ieSPEOZCtO9I68i8/oteJKOxzHC2zR+0g==
 
 codemirror@^6.0.0:
   version "6.0.1"
@@ -4062,9 +4062,9 @@ ee-first@1.1.1:
   integrity sha512-WMwm9LhRUo+WUaRN+vRuETqG89IgZphVSNkdFgeb6sS/E4OrDIN7t48CAewSHXc6C8lefD8KKfr5vY61brQlow==
 
 electron-to-chromium@^1.4.477:
-  version "1.4.504"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.504.tgz#975522945676cf2d55910988a169f07b83081488"
-  integrity sha512-cSMwIAd8yUh54VwitVRVvHK66QqHWE39C3DRj8SWiXitEpVSY3wNPD9y1pxQtLIi4w3UdzF9klLsmuPshz09DQ==
+  version "1.4.505"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.505.tgz#00571ade5975b58413f0f56a665b065bfc29cdfc"
+  integrity sha512-0A50eL5BCCKdxig2SsCXhpuztnB9PfUgRMojj5tMvt8O54lbwz3t6wNgnpiTRosw5QjlJB7ixhVyeg8daLQwSQ==
 
 elliptic@^6.5.4:
   version "6.5.4"
@@ -7410,9 +7410,9 @@ postcss-value-parser@^4.0.2, postcss-value-parser@^4.1.0, postcss-value-parser@^
   integrity sha512-1NNCs6uurfkVbeXG4S8JFT9t19m45ICnif8zWLd5oPSZ50QnwMfK+H3jv408d4jw/7Bttv5axS5IiHoLaVNHeQ==
 
 postcss@^8.3.11, postcss@^8.4.21:
-  version "8.4.28"
-  resolved "https://registry.yarnpkg.com/postcss/-/postcss-8.4.28.tgz#c6cc681ed00109072816e1557f889ef51cf950a5"
-  integrity sha512-Z7V5j0cq8oEKyejIKfpD8b4eBy9cwW2JWPk0+fB1HOAMsfHbnAXLLS+PfVWlzMSLQaWttKDt607I0XHmpE67Vw==
+  version "8.4.29"
+  resolved "https://registry.yarnpkg.com/postcss/-/postcss-8.4.29.tgz#33bc121cf3b3688d4ddef50be869b2a54185a1dd"
+  integrity sha512-cbI+jaqIeu/VGqXEarWkRCCffhjgXc0qjBtXpqJhTBohMUjUQnbBr0xqX3vEKudc4iviTewcJo5ajcec5+wdJw==
   dependencies:
     nanoid "^3.3.6"
     picocolors "^1.0.0"
@@ -8797,9 +8797,9 @@ terser-webpack-plugin@^5.3.7:
     terser "^5.16.8"
 
 terser@^5.10.0, terser@^5.15.1, terser@^5.16.8:
-  version "5.19.2"
-  resolved "https://registry.yarnpkg.com/terser/-/terser-5.19.2.tgz#bdb8017a9a4a8de4663a7983f45c506534f9234e"
-  integrity sha512-qC5+dmecKJA4cpYxRa5aVkKehYsQKc+AHeKl0Oe62aYjBL8ZA33tTljktDHJSaxxMnbI5ZYw+o/S2DxxLu8OfA==
+  version "5.19.3"
+  resolved "https://registry.yarnpkg.com/terser/-/terser-5.19.3.tgz#359baeba615aef13db4b8c4d77a2aa0d8814aa9e"
+  integrity sha512-pQzJ9UJzM0IgmT4FAtYI6+VqFf0lj/to58AV0Xfgg0Up37RyPG7Al+1cepC6/BVuAxR9oNb41/DL4DEoHJvTdg==
   dependencies:
     "@jridgewell/source-map" "^0.3.3"
     acorn "^8.8.2"
