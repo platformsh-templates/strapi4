@@ -2279,9 +2279,9 @@
     "@types/node" "*"
 
 "@types/lodash@^4.14.165":
-  version "4.14.198"
-  resolved "https://registry.yarnpkg.com/@types/lodash/-/lodash-4.14.198.tgz#4d27465257011aedc741a809f1269941fa2c5d4c"
-  integrity sha512-trNJ/vtMZYMLhfN45uLq4ShQSw0/S7xCTLLVM+WM1rmFpba/VS42jVUgaO3w/NOLiWR/09lnYk0yMaA/atdIsg==
+  version "4.14.199"
+  resolved "https://registry.yarnpkg.com/@types/lodash/-/lodash-4.14.199.tgz#c3edb5650149d847a277a8961a7ad360c474e9bf"
+  integrity sha512-Vrjz5N5Ia4SEzWWgIVwnHNEnb1UE1XMkvY5DGXrAeOGE9imk0hgTHh5GyDjLDJi9OTCn9oo9dXH1uToK1VRfrg==
 
 "@types/long@^4.0.0":
   version "4.0.2"
@@ -4290,9 +4290,9 @@ ee-first@1.1.1:
   integrity sha512-WMwm9LhRUo+WUaRN+vRuETqG89IgZphVSNkdFgeb6sS/E4OrDIN7t48CAewSHXc6C8lefD8KKfr5vY61brQlow==
 
 electron-to-chromium@^1.4.526:
-  version "1.4.527"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.527.tgz#5acf0bcc5bf015eb31dd2279989a3712e341a554"
-  integrity sha512-EafxEiEDzk2aLrdbtVczylHflHdHkNrpGNHIgDyA63sUQLQVS2ayj2hPw3RsVB42qkwURH+T2OxV7kGPUuYszA==
+  version "1.4.528"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.528.tgz#7c900fd73d9d2e8bb0dab0e301f25f0f4776ef2c"
+  integrity sha512-UdREXMXzLkREF4jA8t89FQjA8WHI6ssP38PMY4/4KhXFQbtImnghh4GkCgrtiZwLKUKVD2iTVXvDVQjfomEQuA==
 
 elliptic@^6.5.4:
   version "6.5.4"
