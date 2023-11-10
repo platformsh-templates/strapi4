@@ -9273,9 +9273,9 @@ streamsearch@0.1.2:
   integrity sha512-jos8u++JKm0ARcSUTAZXOVC0mSox7Bhn6sBgty73P1f3JGf7yG2clTbBNHUdde/kdvP2FESam+vM6l8jBrNxHA==
 
 streamx@^2.15.0:
-  version "2.15.2"
-  resolved "https://registry.yarnpkg.com/streamx/-/streamx-2.15.2.tgz#680eacebdc9c43ede7362c2e6695b34dd413c741"
-  integrity sha512-b62pAV/aeMjUoRN2C/9F0n+G8AfcJjNC0zw/ZmOHeFsIe4m4GzjVW9m6VHXVjk536NbdU9JRwKMJRfkc+zUFTg==
+  version "2.15.3"
+  resolved "https://registry.yarnpkg.com/streamx/-/streamx-2.15.3.tgz#bf85f7f4818a194a7b3ec2984f221afc35b54cd0"
+  integrity sha512-8UmzFRA08VahBuaw6UxQAX+NAmMtPVkPDWUtLhyHRaU2uxiw3+keTuSJRJfAfpqo7M3TSAhYtdRzYqG/j02hzA==
   dependencies:
     fast-fifo "^1.1.0"
     queue-tick "^1.0.1"
