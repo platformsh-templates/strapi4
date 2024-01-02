@@ -2276,9 +2276,9 @@
     typescript "5.2.2"
 
 "@strapi/ui-primitives@^1.13.1":
-  version "1.13.2"
-  resolved "https://registry.yarnpkg.com/@strapi/ui-primitives/-/ui-primitives-1.13.2.tgz#8e510bc56944d8bf93581fdc7934f77a76d17e3a"
-  integrity sha512-Koaun6riXoTOvvlKNgFy44BVUfLfchgpabRhrNH/KfmBQQlhLCqJDQu023FcFQDQQ4XFO3DpvzDk8pCbmva7oQ==
+  version "1.14.0"
+  resolved "https://registry.yarnpkg.com/@strapi/ui-primitives/-/ui-primitives-1.14.0.tgz#98ff668701b4100bee8bc0212b392158c88744f7"
+  integrity sha512-M5RhM7/qVuu4gPvHWiSTOdI7bVDWK68aB+XyB/g1hGPqXL2Umsz8Iwn9bJPQk6YwCaHdrobaoB7lEDlfrlUAVA==
   dependencies:
     "@radix-ui/number" "^1.0.1"
     "@radix-ui/primitive" "^1.0.1"
