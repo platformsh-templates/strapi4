@@ -290,9 +290,9 @@
     "@lezer/json" "^1.0.0"
 
 "@codemirror/language@^6.0.0":
-  version "6.10.0"
-  resolved "https://registry.yarnpkg.com/@codemirror/language/-/language-6.10.0.tgz#2d0e818716825ee2ed0dacd04595eaa61bae8f23"
-  integrity sha512-2vaNn9aPGCRFKWcHPFksctzJ8yS5p7YoaT+jHpc0UGKzNuAIx4qy6R5wiqbP+heEEdyaABA582mNqSHzSoYdmg==
+  version "6.10.1"
+  resolved "https://registry.yarnpkg.com/@codemirror/language/-/language-6.10.1.tgz#428c932a158cb75942387acfe513c1ece1090b05"
+  integrity sha512-5GrXzrhq6k+gL5fjkAwt90nYDmjlzTIJV8THnxNFtNKWotMIlzzN+CpqxqwXOECnUdOndmSeWntVrVcv5axWRQ==
   dependencies:
     "@codemirror/state" "^6.0.0"
     "@codemirror/view" "^6.23.0"
@@ -3657,9 +3657,9 @@ camelize@^1.0.0:
   integrity sha512-dU+Tx2fsypxTgtLoE36npi3UqcjSSMNYfkqgmoEhtZrraP5VWq0K7FkWVTYa8eMPtnU/G2txVsfdCJTn9uzpuQ==
 
 caniuse-lite@^1.0.30001580:
-  version "1.0.30001582"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001582.tgz#db3070547ce0b48d9f44a509b86c4a02ba5d9055"
-  integrity sha512-vsJG3V5vgfduaQGVxL53uSX/HUzxyr2eA8xCo36OLal7sRcSZbibJtLeh0qja4sFOr/QQGt4opB4tOy+eOgAxg==
+  version "1.0.30001583"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001583.tgz#abb2970cc370801dc7e27bf290509dc132cfa390"
+  integrity sha512-acWTYaha8xfhA/Du/z4sNZjHUWjkiuoAi2LM+T/aL+kemKQgPT1xBb/YKjlQ0Qo8gvbHsGNplrEJ+9G3gL7i4Q==
 
 chalk@4.1.2, chalk@^4.1.0, chalk@^4.1.1, chalk@^4.1.2:
   version "4.1.2"
@@ -4664,9 +4664,9 @@ ee-first@1.1.1:
   integrity sha512-WMwm9LhRUo+WUaRN+vRuETqG89IgZphVSNkdFgeb6sS/E4OrDIN7t48CAewSHXc6C8lefD8KKfr5vY61brQlow==
 
 electron-to-chromium@^1.4.648:
-  version "1.4.654"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.654.tgz#65dc3cd96f8d2f8d7197492509cc9726782d6919"
-  integrity sha512-hjfFa+Vj4WGLRVTlCQa+IivBkpcp+boGxMQfusOC/me5Y5NfU4wX7wyw+K9p8Cw4tl0BVIZGH2n7y/jMc3w4pg==
+  version "1.4.656"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.656.tgz#b374fb7cab9b782a5bc967c0ce0e19826186b9c9"
+  integrity sha512-9AQB5eFTHyR3Gvt2t/NwR0le2jBSUNwCnMbUCejFWHD+so4tH40/dRLgoE+jxlPeWS43XJewyvCv+I8LPMl49Q==
 
 elliptic@^6.5.4:
   version "6.5.4"
@@ -9488,9 +9488,9 @@ streamsearch@0.1.2:
   integrity sha512-jos8u++JKm0ARcSUTAZXOVC0mSox7Bhn6sBgty73P1f3JGf7yG2clTbBNHUdde/kdvP2FESam+vM6l8jBrNxHA==
 
 streamx@^2.15.0:
-  version "2.15.6"
-  resolved "https://registry.yarnpkg.com/streamx/-/streamx-2.15.6.tgz#28bf36997ebc7bf6c08f9eba958735231b833887"
-  integrity sha512-q+vQL4AAz+FdfT137VF69Cc/APqUbxy+MDOImRrMvchJpigHj9GksgDU2LYbO9rx7RX6osWgxJB2WxhYv4SZAw==
+  version "2.15.7"
+  resolved "https://registry.yarnpkg.com/streamx/-/streamx-2.15.7.tgz#a12fe09faa3fda2483e8044c406b72286994a138"
+  integrity sha512-NPEKS5+yjyo597eafGbKW5ujh7Sm6lDLHZQd/lRSz6S0VarpADBJItqfB4PnwpS+472oob1GX5cCY9vzfJpHUA==
   dependencies:
     fast-fifo "^1.1.0"
     queue-tick "^1.0.1"
