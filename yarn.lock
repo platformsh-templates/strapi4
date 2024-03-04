@@ -335,9 +335,9 @@
     "@lezer/highlight" "^1.0.0"
 
 "@codemirror/view@^6.0.0", "@codemirror/view@^6.17.0", "@codemirror/view@^6.23.0":
-  version "6.24.1"
-  resolved "https://registry.yarnpkg.com/@codemirror/view/-/view-6.24.1.tgz#c151d589dc27f9197c68d395811b93c21c801767"
-  integrity sha512-sBfP4rniPBRQzNakwuQEqjEuiJDWJyF2kqLLqij4WXRoVwPPJfjx966Eq3F7+OPQxDtMt/Q9MWLoZLWjeveBlg==
+  version "6.25.0"
+  resolved "https://registry.yarnpkg.com/@codemirror/view/-/view-6.25.0.tgz#7bf6cd15d1285e9354a83e39ee35cbf8f3957119"
+  integrity sha512-XnMGOm6qXB8znzCko0N7k97qZayVdvqpA0JebxA5fHtgBjC/XlCPhH9TK92TahsoCKMPQlaTCUep06Dwj/+GXQ==
   dependencies:
     "@codemirror/state" "^6.4.0"
     style-mod "^4.1.0"
@@ -2715,9 +2715,9 @@
     "@types/react" "*"
 
 "@types/react@*", "@types/react@16 || 17 || 18":
-  version "18.2.61"
-  resolved "https://registry.yarnpkg.com/@types/react/-/react-18.2.61.tgz#5607308495037436779939ec0348a5816c08799d"
-  integrity sha512-NURTN0qNnJa7O/k4XUkEW2yfygA+NxS0V5h1+kp9jPwhzZy95q3ADoGMP0+JypMhrZBTTgjKAUlTctde1zzeQA==
+  version "18.2.62"
+  resolved "https://registry.yarnpkg.com/@types/react/-/react-18.2.62.tgz#2527a7a54749b1a99c87a4aa8b83e26846face38"
+  integrity sha512-l3f57BbaEKP0xcFzf+5qRG8/PXykZiuVM6eEoPtqBPCp6dxO3HhDkLIgIyXPhPKNAeXn3KO2pEaNgzaEo/asaw==
   dependencies:
     "@types/prop-types" "*"
     "@types/scheduler" "*"
@@ -4731,9 +4731,9 @@ ee-first@1.1.1:
   integrity sha512-WMwm9LhRUo+WUaRN+vRuETqG89IgZphVSNkdFgeb6sS/E4OrDIN7t48CAewSHXc6C8lefD8KKfr5vY61brQlow==
 
 electron-to-chromium@^1.4.668:
-  version "1.4.690"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.690.tgz#dd5145d45c49c08a9a6f7454127e660bdf9a3fa7"
-  integrity sha512-+2OAGjUx68xElQhydpcbqH50hE8Vs2K6TkAeLhICYfndb67CVH0UsZaijmRUE3rHlIxU1u0jxwhgVe6fK3YANA==
+  version "1.4.691"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.691.tgz#e3c49de174b36b2bb96d09f44c81ff8ba273d775"
+  integrity sha512-vJ+/LmKja/St8Ofq4JGMFVZuwG7ECU6akjNSn2/g6nv8xbIBOWGlEs+WA8/3XaWkU0Nlyu0iFGgOxC4mpgFjgA==
 
 elliptic@^6.5.4:
   version "6.5.4"
@@ -5870,9 +5870,9 @@ hosted-git-info@^2.1.4:
   integrity sha512-mxIDAb9Lsm6DoOJ7xH+5+X4y1LU/4Hi50L9C5sIswK3JzULS4bwk1FvjdBgvYR4bzT4tuUQiC15FE2f5HbLvYw==
 
 html-entities@^2.1.0:
-  version "2.5.0"
-  resolved "https://registry.yarnpkg.com/html-entities/-/html-entities-2.5.0.tgz#cb1346d0bca6df719c7f6e9ab09d4d916d1141d4"
-  integrity sha512-g3xzbdhD5HamT50Sc7/KVvFvU3SUMpKmJkQWYVRhcXHzwUzRXZt5HzTNwn/5BNMm4bECBZc5YnuPh0J8PIBbAQ==
+  version "2.5.2"
+  resolved "https://registry.yarnpkg.com/html-entities/-/html-entities-2.5.2.tgz#201a3cf95d3a15be7099521620d19dfb4f65359f"
+  integrity sha512-K//PSRMQk4FZ78Kyau+mZurHn3FH0Vwr+H36eE0rPbeYkRRi9YxceYPhuN60UwWorxyKHhqoAJl2OFKa4BVtaA==
 
 html-escaper@^2.0.2:
   version "2.0.2"
