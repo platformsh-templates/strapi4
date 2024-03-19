@@ -2673,9 +2673,9 @@
   integrity sha512-K0VQKziLUWkVKiRVrx4a40iPaxTUefQmjtkQofBkYRcoaaL/8rhwDWww9qWbrgicNOgnpIsMxyNIUM4+n6dUIA==
 
 "@types/node@*":
-  version "20.11.28"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.11.28.tgz#4fd5b2daff2e580c12316e457473d68f15ee6f66"
-  integrity sha512-M/GPWVS2wLkSkNHVeLkrF2fD5Lx5UC4PxA0uZcKc6QqbIQUJyW1jVjueJYi1z8n0I5PxYrtpnPnWglE+y9A0KA==
+  version "20.11.29"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.11.29.tgz#431253cede34f392d6aaf7acad427b9c23aa60f6"
+  integrity sha512-P99thMkD/1YkCvAtOd6/zGedKNA0p2fj4ZpjCzcNiSCBWgm3cNRTBfa/qjFnsKkkojxu4vVLtWpesnZ9+ap+gA==
   dependencies:
     undici-types "~5.26.4"
 
@@ -4733,9 +4733,9 @@ ee-first@1.1.1:
   integrity sha512-WMwm9LhRUo+WUaRN+vRuETqG89IgZphVSNkdFgeb6sS/E4OrDIN7t48CAewSHXc6C8lefD8KKfr5vY61brQlow==
 
 electron-to-chromium@^1.4.668:
-  version "1.4.709"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.709.tgz#33668d7bbce6ee1899d56adbd597c6fef4dfe520"
-  integrity sha512-ixj1cyHrKqmdXF5CeHDSLbO0KRuOE1BHdCYKbcRA04dPLaKu8Vi7JDK5KLnGrfD6WxKcSEGm9gtHR4MqBq8gmg==
+  version "1.4.710"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.710.tgz#d0ec4ea8a97df4c5eaeb8c69d45bf81f248b3855"
+  integrity sha512-w+9yAVHoHhysCa+gln7AzbO9CdjFcL/wN/5dd+XW/Msl2d/4+WisEaCF1nty0xbAKaxdaJfgLB2296U7zZB7BA==
 
 elliptic@^6.5.4:
   version "6.5.5"
@@ -5420,9 +5420,9 @@ get-intrinsic@^1.1.3, get-intrinsic@^1.2.4:
     hasown "^2.0.0"
 
 get-it@^8.0.9:
-  version "8.4.13"
-  resolved "https://registry.yarnpkg.com/get-it/-/get-it-8.4.13.tgz#6d3085e3752e072adaf129d3f41e2bc1ddd3021a"
-  integrity sha512-uY9sMQmiG3RCXqzfpIwt7uI6FuL0XNHgO1U8DhWbpxWgOZ8cCNJOAwr+xkLZxpYRcQ6jFEwdr6oTG55l8u415g==
+  version "8.4.14"
+  resolved "https://registry.yarnpkg.com/get-it/-/get-it-8.4.14.tgz#71e995b69ebbf48fd0ac18fadc5390384df66f9d"
+  integrity sha512-dhiRE7Xk8/mg/RhKr9u01KY3nQzVPZfN3shKkEWj1TsuACkZtEeVAuQ5tF5np0qIcSayWowKOcQ5dxCnZBM+hg==
   dependencies:
     debug "^4.3.4"
     decompress-response "^7.0.0"
