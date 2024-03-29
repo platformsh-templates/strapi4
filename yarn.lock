@@ -336,9 +336,9 @@
     "@lezer/highlight" "^1.0.0"
 
 "@codemirror/view@^6.0.0", "@codemirror/view@^6.17.0", "@codemirror/view@^6.23.0":
-  version "6.26.0"
-  resolved "https://registry.yarnpkg.com/@codemirror/view/-/view-6.26.0.tgz#ab5a85aa8ebfb953cb5534e07d0a3751f9a3869a"
-  integrity sha512-nSSmzONpqsNzshPOxiKhK203R6BvABepugAe34QfQDbNDslyjkqBuKgrK5ZBvqNXpfxz5iLrlGTmEfhbQyH46A==
+  version "6.26.1"
+  resolved "https://registry.yarnpkg.com/@codemirror/view/-/view-6.26.1.tgz#ab99cf35c576bc65f5804ab49db730b65c3fad3f"
+  integrity sha512-wLw0t3R9AwOSQThdZ5Onw8QQtem5asE7+bPlnzc57eubPqiuJKIzwjMZ+C42vQett+iva+J8VgFV4RYWDBh5FA==
   dependencies:
     "@codemirror/state" "^6.4.0"
     style-mod "^4.1.0"
@@ -4738,9 +4738,9 @@ ee-first@1.1.1:
   integrity sha512-WMwm9LhRUo+WUaRN+vRuETqG89IgZphVSNkdFgeb6sS/E4OrDIN7t48CAewSHXc6C8lefD8KKfr5vY61brQlow==
 
 electron-to-chromium@^1.4.668:
-  version "1.4.719"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.719.tgz#22a94ce7a5150511ba88e900836039e159efe22c"
-  integrity sha512-FbWy2Q2YgdFzkFUW/W5jBjE9dj+804+98E4Pup78JBPnbdb3pv6IneY2JCPKdeKLh3AOKHQeYf+KwLr7mxGh6Q==
+  version "1.4.720"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.720.tgz#7cbe32a4ceb0650d2fbc16886440949cf07610e8"
+  integrity sha512-5zwcKNkOj3GN0jBzpcpGonNPkn667VJpQwRYWdo/TiJEHTQswZyA/vALhZFiAXgL5NuK9UarX1tbdvXu3hG6Yw==
 
 elliptic@^6.5.4:
   version "6.5.5"
