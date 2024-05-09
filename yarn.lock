@@ -1663,9 +1663,9 @@
     supports-color "~8.1.1"
 
 "@rushstack/ts-command-line@^4.12.2":
-  version "4.19.3"
-  resolved "https://registry.yarnpkg.com/@rushstack/ts-command-line/-/ts-command-line-4.19.3.tgz#c768d5ff70de78910c49aa9c0bbabcb567e365f9"
-  integrity sha512-gWJPWIlr1VC2byK3ZfXMoPLCNT6fFk4qXAb2x2deVRJpq/LQh03galWqissit8QCOS7mOJPyM42uWmT8f4MKRg==
+  version "4.19.4"
+  resolved "https://registry.yarnpkg.com/@rushstack/ts-command-line/-/ts-command-line-4.19.4.tgz#d5768016936dd86b823b9ca0f7923e5d08d4da34"
+  integrity sha512-OH7SPCTjEus/KNDBZ2RbsbVQZ9/H/TJI+TcuiiQjxZ3beMTcQLGaPt5BuXk/c0AS0FQbOGT+2+AJmTZZq6Fhtw==
   dependencies:
     "@rushstack/terminal" "0.10.2"
     "@types/argparse" "1.0.38"
