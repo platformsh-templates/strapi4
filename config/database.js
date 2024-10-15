@@ -39,7 +39,7 @@ if (config.isValidPlatform() && !config.inBuild()) {
     connection: {
       client: "postgres",
       connection: {
-        host: credentials.ip,
+        host: credentials.host,
         port: credentials.port,
         database: credentials.path,
         user: credentials.username,
