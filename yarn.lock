@@ -7536,10 +7536,10 @@ log-symbols@^4.1.0:
     chalk "^4.1.0"
     is-unicode-supported "^0.1.0"
 
-logform@^2.4.0, logform@^2.6.1:
-  version "2.6.1"
-  resolved "https://registry.yarnpkg.com/logform/-/logform-2.6.1.tgz#71403a7d8cae04b2b734147963236205db9b3df0"
-  integrity sha512-CdaO738xRapbKIMVn2m4F6KTj4j7ooJ8POVnebSgKo3KBz5axNXRAL7ZdRjIV6NOr2Uf4vjtRkxrFETOioCqSA==
+logform@^2.4.0, logform@^2.7.0:
+  version "2.7.0"
+  resolved "https://registry.yarnpkg.com/logform/-/logform-2.7.0.tgz#cfca97528ef290f2e125a08396805002b2d060d1"
+  integrity sha512-TFYA4jnP7PVbmlBIfhlSe+WKxs9dklXMTEGcBCIvLhE/Tn3H6Gk1norupVW7m5Cnd4bLcr08AytbyV/xj7f/kQ==
   dependencies:
     "@colors/colors" "1.6.0"
     "@types/triple-beam" "^1.3.2"
@@ -11016,11 +11016,11 @@ widest-line@^3.1.0:
     string-width "^4.0.0"
 
 winston-transport@^4.5.0:
-  version "4.8.0"
-  resolved "https://registry.yarnpkg.com/winston-transport/-/winston-transport-4.8.0.tgz#a15080deaeb80338455ac52c863418c74fcf38ea"
-  integrity sha512-qxSTKswC6llEMZKgCQdaWgDuMJQnhuvF5f2Nk3SNXc4byfQ+voo2mX1Px9dkNOuR8p0KAjfPG29PuYUSIb+vSA==
+  version "4.8.1"
+  resolved "https://registry.yarnpkg.com/winston-transport/-/winston-transport-4.8.1.tgz#11a08b283bde7f510e8d36a546d3dd7b7554c19a"
+  integrity sha512-yZjgYLreNHGpcWW/YhQJTOnRb8fBcopJSE6v8oWH4vVmcDKUZO0ivqU8/yjcX/+YHmmTX2HS3NF/T7LFZzoG9A==
   dependencies:
-    logform "^2.6.1"
+    logform "^2.7.0"
     readable-stream "^4.5.2"
     triple-beam "^1.3.0"
 
