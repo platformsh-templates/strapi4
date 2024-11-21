@@ -2782,9 +2782,9 @@
     tslib "^2.8.0"
 
 "@swc/types@^0.1.15":
-  version "0.1.15"
-  resolved "https://registry.yarnpkg.com/@swc/types/-/types-0.1.15.tgz#9a3b3873d93382750b823aaeabca787bd3fa7c96"
-  integrity sha512-XKaZ+dzDIQ9Ot9o89oJQ/aluI17+VvUnIpYJTcZtvv1iYX6MzHh3Ik2CSR7MdPKpPwfZXHBeCingb2b4PoDVdw==
+  version "0.1.16"
+  resolved "https://registry.yarnpkg.com/@swc/types/-/types-0.1.16.tgz#b9bc4b32adf08f467d78e6da10e9f78de77745bc"
+  integrity sha512-okcPxwxfdKUPrH15TbMcuqMJBu6QcxjHwyhYj1IPyaSAKHY7SHqhaS2UCANaOQ/+E6Dor50IgNpSbeJNqcuehw==
   dependencies:
     "@swc/counter" "^0.1.3"
 
