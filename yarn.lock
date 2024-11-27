@@ -255,9 +255,9 @@
     "@lezer/json" "^1.0.0"
 
 "@codemirror/language@^6.0.0":
-  version "6.10.4"
-  resolved "https://registry.yarnpkg.com/@codemirror/language/-/language-6.10.4.tgz#8791824f06eaa428d9c0291902b2461c005c5ad1"
-  integrity sha512-qjt7Wn/nxGuI278GYVlqE5V93Xn8ZQwzqZtgS0FaWr7K2yWgd5/FlBNqNi4jtUvBVvWJzAGfnggIlpyjTOaF4A==
+  version "6.10.5"
+  resolved "https://registry.yarnpkg.com/@codemirror/language/-/language-6.10.5.tgz#69ce17e3601b2667706a7a2056be4df40d102d8e"
+  integrity sha512-sECWJyNmwqw6mSO6Qf0IVPHwhEnuYbqHBZaaIbdcXtZ6Y2r5vU/dxgC7K1ppWaJFy8XGtTBC0Pd60qI7NfJreQ==
   dependencies:
     "@codemirror/state" "^6.0.0"
     "@codemirror/view" "^6.23.0"
