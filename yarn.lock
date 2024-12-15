@@ -9248,9 +9248,9 @@ react-side-effect@^2.1.0:
   integrity sha512-PVjOcvVOyIILrYoyGEpDN3vmYNLdy1CajSFNt4TDsVQC5KpTijDvWVoR+/7Rz2xT978D8/ZtFceXxzsPwZEDvw==
 
 react-style-singleton@^2.2.1, react-style-singleton@^2.2.2:
-  version "2.2.2"
-  resolved "https://registry.yarnpkg.com/react-style-singleton/-/react-style-singleton-2.2.2.tgz#1e7a6a92d495ca0354449cb6736784e72ee7eb05"
-  integrity sha512-tkt+lL5/0Od4uy10wnXnZ1FLTSgKHhSK+quDbJHqFdEgdLEoWgPYQ166s8lOjSBzk5xAxH9YlFaQDUbGgZO/Lw==
+  version "2.2.3"
+  resolved "https://registry.yarnpkg.com/react-style-singleton/-/react-style-singleton-2.2.3.tgz#4265608be69a4d70cfe3047f2c6c88b2c3ace388"
+  integrity sha512-b6jSvxvVnyptAiLjbkWLE/lOnR4lfTtDAl+eUC7RZy+QQWc6wRzIV2CE6xBuMmDxc2qIihtDCZD5NPOFl7fRBQ==
   dependencies:
     get-nonce "^1.0.0"
     tslib "^2.0.0"
