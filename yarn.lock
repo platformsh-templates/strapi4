@@ -5935,9 +5935,9 @@ get-package-type@^0.1.0:
   integrity sha512-pjzuKtY64GYfWizNAJ0fr9VqttZkNiK2iS430LtIHzjBEr6bX8Am2zm4sW4Ro5wjWW5cAlRL1qAMTcXbjNAO2Q==
 
 get-proto@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/get-proto/-/get-proto-1.0.0.tgz#2f14be4ab6a5ba2ca65b49defb544280730d9c5c"
-  integrity sha512-TtLgOcKaF1nMP2ijJnITkE4nRhbpshHhmzKiuhmSniiwWzovoqwqQ8rNuhf0mXJOqIY5iU+QkUe0CkJYrLsG9w==
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/get-proto/-/get-proto-1.0.1.tgz#150b3f2743869ef3e851ec0c49d15b1d14d00ee1"
+  integrity sha512-sTSfBjoXBp89JvIKIefqw7U2CCebsc74kiY6awiGogKtoSGbgjYE/G/+l9sF3MWFPNc9IcoOC4ODfKHfxFmp0g==
   dependencies:
     dunder-proto "^1.0.1"
     es-object-atoms "^1.0.0"
