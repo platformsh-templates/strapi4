@@ -5212,9 +5212,9 @@ ee-first@1.1.1:
   integrity sha512-WMwm9LhRUo+WUaRN+vRuETqG89IgZphVSNkdFgeb6sS/E4OrDIN7t48CAewSHXc6C8lefD8KKfr5vY61brQlow==
 
 electron-to-chromium@^1.5.73:
-  version "1.5.133"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.5.133.tgz#1e0aba775a9ae51a42d70a2c5e562fab515105f4"
-  integrity sha512-mrR+g6Y1at0GKDlPlMMwLAkI6c47q3d7U/vKS3rGTa3V4xStu18oT4UCPg5ErcAhUqk7swSjXSPUGstOYd2qBw==
+  version "1.5.134"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.5.134.tgz#d90008c4f8a506c1a6d1b329f922d83e18904101"
+  integrity sha512-zSwzrLg3jNP3bwsLqWHmS5z2nIOQ5ngMnfMZOWWtXnqqQkPVyOipxK98w+1beLw1TB+EImPNcG8wVP/cLVs2Og==
 
 elliptic@^6.5.4, elliptic@^6.6.1:
   version "6.6.1"
@@ -11054,9 +11054,9 @@ webpack-sources@^3.2.3:
   integrity sha512-/DyMEOrDgLKKIG0fmvtz+4dUX/3Ghozwgm6iPp8KRhvn+eQf9+Q7GWxVNMk3+uCPWfdXYC4ExGBckIXdFEfH1w==
 
 webpack@^5.89.0:
-  version "5.99.0"
-  resolved "https://registry.yarnpkg.com/webpack/-/webpack-5.99.0.tgz#6ee6499227653538e6c5b7e0bbd021f12d1c8481"
-  integrity sha512-//MpHjkKV7dhKheJ1lJuHkR6tv8ycfYy7YVzVhhIpwKuKCu5/Zty/vGpFi0fV2RRAWTYDuj6oKn4vYyLzRh55g==
+  version "5.99.1"
+  resolved "https://registry.yarnpkg.com/webpack/-/webpack-5.99.1.tgz#8847e847678bcc3d1fc93a30741bbd78bccc028c"
+  integrity sha512-o9gY7ibHPFxLjF6NtvQ6+5CGknsPTRllsL6SEnqR2Zhjk02hiIioJYLS7dvrWaykrRbbmhvDeKp36mKHNbKYiw==
   dependencies:
     "@types/eslint-scope" "^3.7.7"
     "@types/estree" "^1.0.6"
