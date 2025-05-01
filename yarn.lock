@@ -3226,10 +3226,10 @@
   dependencies:
     "@ucast/core" "^1.4.1"
 
-"@uiw/codemirror-extensions-basic-setup@4.23.11":
-  version "4.23.11"
-  resolved "https://registry.yarnpkg.com/@uiw/codemirror-extensions-basic-setup/-/codemirror-extensions-basic-setup-4.23.11.tgz#80a1d287c2231c00b0bed595e65e1761b813f5d1"
-  integrity sha512-U31s5LEqEKFU4SPz1tldfrPohKddxC02z1kTnWe50k+K0CYK+PtISD5ufH/PVC0EgGL+c0TydTx72nRMwaeC4A==
+"@uiw/codemirror-extensions-basic-setup@4.23.12":
+  version "4.23.12"
+  resolved "https://registry.yarnpkg.com/@uiw/codemirror-extensions-basic-setup/-/codemirror-extensions-basic-setup-4.23.12.tgz#fb2e6a4d70c7d83f6bc54b5219ee9e84f8fa9eae"
+  integrity sha512-l9vuiXOTFDBetYrRLDmz3jDxQHDsrVAZ2Y6dVfmrqi2AsulsDu+y7csW0JsvaMqo79rYkaIZg8yeqmDgMb7VyQ==
   dependencies:
     "@codemirror/autocomplete" "^6.0.0"
     "@codemirror/commands" "^6.0.0"
@@ -3240,15 +3240,15 @@
     "@codemirror/view" "^6.0.0"
 
 "@uiw/react-codemirror@^4.21.25":
-  version "4.23.11"
-  resolved "https://registry.yarnpkg.com/@uiw/react-codemirror/-/react-codemirror-4.23.11.tgz#a0e5091ab5f7bc4514a1ccee53280468a169f470"
-  integrity sha512-oMUXl/yu/a8qKy7w7q769kH2TPlvPln6IpvkjXQX90ziD8GHRFLDz+Ij51D2RRwB3glrkPnhCN9YC+PDlnmhqA==
+  version "4.23.12"
+  resolved "https://registry.yarnpkg.com/@uiw/react-codemirror/-/react-codemirror-4.23.12.tgz#facb1458291937998818c1e11a123976df606a79"
+  integrity sha512-yseqWdzoAAGAW7i/NiU8YrfSLVOEBjQvSx1KpDTFVV/nn0AlAZoDVTIPEBgdXrPlVUQoCrwgpEaj3uZCklk9QA==
   dependencies:
     "@babel/runtime" "^7.18.6"
     "@codemirror/commands" "^6.1.0"
     "@codemirror/state" "^6.1.1"
     "@codemirror/theme-one-dark" "^6.0.0"
-    "@uiw/codemirror-extensions-basic-setup" "4.23.11"
+    "@uiw/codemirror-extensions-basic-setup" "4.23.12"
     codemirror "^6.0.0"
 
 "@vitejs/plugin-react-swc@3.5.0":
@@ -3835,9 +3835,9 @@ bare-events@^2.2.0, bare-events@^2.5.4:
   integrity sha512-+gFfDkR8pj4/TrWCGUGWmJIkBwuxPS5F+a5yWjOHQt2hHvNZd5YLzadjmDUtFmMM4y429bnKLa8bYBMHcYdnQA==
 
 bare-fs@^4.0.1:
-  version "4.1.3"
-  resolved "https://registry.yarnpkg.com/bare-fs/-/bare-fs-4.1.3.tgz#9b23313163d844e807aa6eafb4ba82b5f070eefc"
-  integrity sha512-OeEZYIg+2qepaWLyphaOXHAHKo3xkM8y3BeGAvHdMN8GNWvEAU1Yw6rYpGzu/wDDbKxgEjVeVDpgGhDzaeMpjg==
+  version "4.1.4"
+  resolved "https://registry.yarnpkg.com/bare-fs/-/bare-fs-4.1.4.tgz#3dd863925f29843e64a9030839c9cb3155714d40"
+  integrity sha512-r8+26Voz8dGX3AYpJdFb1ZPaUSM8XOLCZvy+YGpRTmwPHIxA7Z3Jov/oMPtV7hfRQbOnH8qGlLTzQAbgtdNN0Q==
   dependencies:
     bare-events "^2.5.4"
     bare-path "^3.0.0"
@@ -5217,9 +5217,9 @@ ee-first@1.1.1:
   integrity sha512-WMwm9LhRUo+WUaRN+vRuETqG89IgZphVSNkdFgeb6sS/E4OrDIN7t48CAewSHXc6C8lefD8KKfr5vY61brQlow==
 
 electron-to-chromium@^1.5.73:
-  version "1.5.147"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.5.147.tgz#98429d740b8d45e12f63795263b3dc5600d26899"
-  integrity sha512-Myr733VWPkF9e2EZ3MiLJZm4IxV489nbfEFU0GOCC1a0vOXOvW51qF1eLIf+fA7vyATduvCEs9KE6t0opdzQ6A==
+  version "1.5.148"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.5.148.tgz#afed6a5771ec18d41e26541f71ba2ccc65f102ac"
+  integrity sha512-8uc1QXwwqayD4mblcsQYZqoi+cOc97A2XmKSBOIRbEAvbp6vrqmSYs4dHD2qVygUgn7Mi0qdKgPaJ9WC8cv63A==
 
 elliptic@^6.5.4, elliptic@^6.6.1:
   version "6.6.1"
