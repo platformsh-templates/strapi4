@@ -5217,9 +5217,9 @@ ee-first@1.1.1:
   integrity sha512-WMwm9LhRUo+WUaRN+vRuETqG89IgZphVSNkdFgeb6sS/E4OrDIN7t48CAewSHXc6C8lefD8KKfr5vY61brQlow==
 
 electron-to-chromium@^1.5.73:
-  version "1.5.145"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.5.145.tgz#abd50700ac2c809e40a4694584f66711ee937fb6"
-  integrity sha512-pZ5EcTWRq/055MvSBgoFEyKf2i4apwfoqJbK/ak2jnFq8oHjZ+vzc3AhRcz37Xn+ZJfL58R666FLJx0YOK9yTw==
+  version "1.5.147"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.5.147.tgz#98429d740b8d45e12f63795263b3dc5600d26899"
+  integrity sha512-Myr733VWPkF9e2EZ3MiLJZm4IxV489nbfEFU0GOCC1a0vOXOvW51qF1eLIf+fA7vyATduvCEs9KE6t0opdzQ6A==
 
 elliptic@^6.5.4, elliptic@^6.6.1:
   version "6.6.1"
@@ -8159,9 +8159,9 @@ no-case@^3.0.4:
     tslib "^2.0.3"
 
 node-abi@^3.3.0:
-  version "3.74.0"
-  resolved "https://registry.yarnpkg.com/node-abi/-/node-abi-3.74.0.tgz#5bfb4424264eaeb91432d2adb9da23c63a301ed0"
-  integrity sha512-c5XK0MjkGBrQPGYG24GBADZud0NCbznxNx0ZkS+ebUTrmV1qTDxPxSL8zEAPURXSbLRWVexxmP4986BziahL5w==
+  version "3.75.0"
+  resolved "https://registry.yarnpkg.com/node-abi/-/node-abi-3.75.0.tgz#2f929a91a90a0d02b325c43731314802357ed764"
+  integrity sha512-OhYaY5sDsIka7H7AtijtI9jwGYLyl29eQn/W623DiN/MIv5sUqc4g7BIDThX+gb7di9f6xK02nkp8sdfFWZLTg==
   dependencies:
     semver "^7.3.5"
 
