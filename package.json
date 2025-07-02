@@ -39,8 +39,9 @@
     "uuid": "32967971-3f95-46c1-a4bb-99af312183da"
   },
   "engines": {
-    "node": ">=14.x.x <=18.x.x",
+    "node": ">=14.x.x <=22.x.x",
     "npm": ">=6.0.0"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "packageManager": "yarn@1.22.22+sha1.ac34549e6aa8e7ead463a7407e1c7390f61a6610"
 }
