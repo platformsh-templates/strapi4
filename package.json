@@ -21,7 +21,7 @@
     "@strapi/plugin-users-permissions": "^4.3.2",
     "@strapi/strapi": "^4.3.2",
     "@strapi/utils": "^4.3.2",
-    "better-sqlite3": "^7.4.6",
+    "better-sqlite3": "^12.0.0",
     "dotenv": "^16.0.1",
     "knex": "0.21.18",
     "mysql": "^2.18.1",
